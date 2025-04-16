@@ -2,7 +2,6 @@
 Number Guessing Game using Python.
 
 
-# Number Guessing Game with Background Music
 
 ## Short Description
 A simple number guessing game built using Python's Tkinter library for the graphical interface and Pygame for background music. The game includes a mute/unmute toggle for the music.
