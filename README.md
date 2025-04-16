@@ -54,5 +54,7 @@ This project is open-source under the MIT License. You are free to modify and di
 See the [LICENSE](LICENSE) file for more details.
 
 ---
-
+Go to the releases page or download here: 
+[Number Guessing Game.zip](https://github.com/user-attachments/files/19777719/Number.Guessing.Game.zip)
+---
 Enjoy the game, and happy guessing!
