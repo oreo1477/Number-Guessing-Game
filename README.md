@@ -16,11 +16,11 @@ This project is a **Number Guessing Game** implemented in Python using the Tkint
 - **Mute/Unmute Toggle:** A button is provided to toggle the background music on and off. Clicking the button will mute the music when it's playing, and unmute it when it's muted.
 
 ### Dependencies:
-- `Tkinter`: Used for creating the graphical user interface.
+- `Tkinter`: Used for creating the graphical user interface (usually included when downloading Python)
 - `Pygame`: Used for handling background music and audio.
 
 ### Installation:
-1. Ensure you have Python 3 installed on your system.
+1. Ensure you have Python 3.7 or later installed on your system.
 2. Install Pygame using the following command:
     ```bash
     pip install pygame
